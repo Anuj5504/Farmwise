@@ -236,8 +236,8 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 📞 Contact & Support
 
-- **Project Link**: [https://github.com/Rushi992145/FarmWise](https://github.com/Rushi992145/FarmWise)
-- **Report Issues**: [Issue Tracker](https://github.com/Rushi992145/FarmWise/issues)
+- **Project Link**: [https://github.com/Anuj5504/Farmwise/](https://github.com/Anuj5504/Farmwise/)
+- **Report Issues**: [Issue Tracker](https://github.com/Anuj5504/Farmwise/issues)
 
 ---
 
