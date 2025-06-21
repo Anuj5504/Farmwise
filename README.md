@@ -215,32 +215,3 @@ CLOUDINARY_CLOUD_NAME=your_cloud_name
 CLOUDINARY_API_KEY=your_api_key
 CLOUDINARY_API_SECRET=your_api_secret
 ```
-
-## 👥 Contributing
-
-We welcome contributions from developers, farmers, agricultural experts, and enthusiasts! Please follow these steps:
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add some amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request.
-
-<div align="center">
-  <p>Together, we can revolutionize agricultural knowledge sharing!</p>
-</div>
-
-## 📄 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## 📞 Contact & Support
-
-- **Project Link**: [https://github.com/Anuj5504/Farmwise/](https://github.com/Anuj5504/Farmwise/)
-- **Report Issues**: [Issue Tracker](https://github.com/Anuj5504/Farmwise/issues)
-
----
-
-<div align="center">
-  <p>🌱 <b>Cultivating Knowledge, Growing Together</b> 🌱</p>
-</div>
