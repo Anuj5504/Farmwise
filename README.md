@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="Frontend/public/s1.jpg" alt="FarmWise Logo" width="100%">
   
   # 🌾 FarmWise
   
